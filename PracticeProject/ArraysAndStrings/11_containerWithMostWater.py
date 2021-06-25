@@ -17,5 +17,5 @@ def maxArea(height):
             right -= 1
     return maxArea
 
-array = [2,3,4,5,18,17,6]
+array = [2,3,4,5,18,17,6,1]
 print(maxArea(array))
